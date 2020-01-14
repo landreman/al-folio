@@ -1,0 +1,9 @@
+#!/bin/bash
+
+bundle exec jekyll build
+
+# -v verbose
+# -n Show what would be transferred, without actually transferring
+# --delete Lets rsync delete files at the remote location
+# -z Use compression
+rsync -avz _site/ mattland@terpconnect.umd.edu:../pub/

@@ -32,10 +32,14 @@ figcaption {
 .three {
     width: 100%;
 }
+.profile_pic_size {
+    width: 320px;
+}
 .caption {
     height: 100%;
     color: $caption-color;
     text-align: center;
     vertical-align: middle;
     font-size: $caption-font-size;
+    font-style: italic;
 }
