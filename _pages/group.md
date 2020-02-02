@@ -25,20 +25,21 @@ mattland at umd dot edu
 </td></tr>
 
 <tr><td>
-<div class="profile col one right"><img src="../assets/img/no_photo.jpg"></div>
+<div class="profile col one right"><img src="../assets/img/RogerioJorge.jpg"></div>
 <h4>Rogerio Jorge</h4>
-I am a postdoc working on understanding quasisymmetry using an asymptotic expansion.
-<a href="https://web.ist.utl.pt/~rogerio.jorge/">Personal website</a>
+Rogerio is a postdoctoral associate in the IREAP group at the University of Maryland and is a member of the Simons Collaboration on Hidden Symmetries and Fusion Energy. During his PhD work, he focused on the development of hybrid kinetic-fluid models able to describe plasma dynamics at arbitrary collisionalities. For his work, he obtained the Physics Doctoral Thesis Award at EPFL University. Currently, he is working on the development of mathematical tools to analytically describe magnetic equilibria of stellarators.
+<br>
+[<a href="https://web.ist.utl.pt/~rogerio.jorge/">Personal website</a>]
 </td></tr>
 
 <tr><td>
-<div class="profile col one right"><img src="../assets/img/no_photo.jpg"></div>
+<div class="profile col one right"><img src="../assets/img/AlessandroGeraldini.jpg"></div>
 <h4>Alessandro Geraldini</h4>
-I am a postdoc working on the sensitivity of the widths of magnetic islands with respect to errors in the shapes of the coils.
+I am a postdoc working on a method to directly compute the sensitivity (shape gradient) of the size of magnetic islands in a stellarator with respect to coils. To have a stellarator with good confinement, the size of magnetic islands must be minimized. To reduce tolerances on the positioning and assembly of coils, it is important to also minimize island sensitivity. My other area of research is the magnetic presheath. (Pre)sheaths are thin regions that form in plasma in direct contact with a solid surface. They are present at the edge of fusion devices, near probes, near spacecraft etc., and they determine how the plasma interacts with the surface.
 </td></tr>
 
 <tr><td>
-<div class="profile col one right"><img src="../assets/img/no_photo.jpg"></div>
+<div class="profile col one right"><img src="../assets/img/MikeMartin.jpg"></div>
 <h4> Mike Martin</h4>
 I am a PhD student working on transport in stellarators, including both turbulence and neoclassical impurity transport.
 </td></tr>
@@ -48,7 +49,8 @@ I am a PhD student working on transport in stellarators, including both turbulen
 <div class="profile col one right"><img src="../assets/img/ElizabethPaul.jpg"></div>
 <h4>Elizabeth Paul</h4>
 I am a PhD student working on adjoint methods for stellarator optimization and sensitivity analysis.
-<a href="https://terpconnect.umd.edu/~ejpaul/">Personal website</a>
+<br>
+[<a href="https://terpconnect.umd.edu/~ejpaul/">Personal website</a>]
 </td></tr>
 
 </table>
@@ -72,7 +74,6 @@ On campus we work with
 [Ricardo Nochetto](https://www.math.umd.edu/~rhn/).
 
 #### Past group members
-Brian Reed, undergraduate
-
+Brian Reed, undergraduate  
 Ben Cha, undergraduate
 

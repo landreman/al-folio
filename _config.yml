@@ -11,13 +11,13 @@ footer_text: >
 #incremental: true
 
 ## For UMD site:
-#url: https://
-#baseurl: terpconnect.umd.edu/~mattland
+url: https://
+baseurl: terpconnect.umd.edu/~mattland
 
 ## For serving on my laptop:
-url: file:// # the base hostname & protocol for your site
-baseurl: /Users/mattland/al-folio/_site # the subpath of your site, e.g. /blog/
-port: 4444
+#url: file:// # the base hostname & protocol for your site
+#baseurl: /Users/mattland/al-folio/_site # the subpath of your site, e.g. /blog/
+#port: 4444
 
 last_updated: # leave blank if you don't want to display last updated
 
